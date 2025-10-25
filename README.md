@@ -53,4 +53,4 @@ Text-Changer/
 └─ package.json
 
 ## Live Link 
-👉🏻 (https://pratham-huh.github.io/text-changer/)
+👉🏻 (https://prathamesh-borkar.github.io/text-changer/)
