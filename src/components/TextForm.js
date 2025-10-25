@@ -16,11 +16,14 @@ export default function TextForm(props) {
         setText(newText)
         props.showAlert("Converted to lowercase", "success");
     }
+    
     const handleCapitalize = () => {
-    let newText = text.replace(/\b\w/g, char => char.toUpperCase());
+    if(text.length === 0) return; 
+    let newText = text.charAt(0).toUpperCase() + text.slice(1);
     setText(newText);
-    props.showAlert("First Letter Capitalized Successfully", "success");
+    props.showAlert("First letter capitalized successfully", "success");
 }
+
 
     const handleClearClick = ()=>{
        
