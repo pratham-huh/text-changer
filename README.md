@@ -52,4 +52,4 @@ Text-Changer/
 └─ package.json
 
 ## Live Link 
-👉🏻 ()
+👉🏻 (https://pratham-huh.github.io/text-changer/)
