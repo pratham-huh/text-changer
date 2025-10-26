@@ -53,4 +53,5 @@ Text-Changer/
 └─ package.json
 
 ## Live Link 
-👉🏻 (https://prathamesh-borkar.github.io/text-changer/)
+👉🏻 (https://text-changer-util001.netlify.app/)
+
